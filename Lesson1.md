@@ -72,7 +72,7 @@ should separate your words with underscores, and keep all the letters lowercase.
 ## Examples
 
 ```py
-number = 3435                 # Boolean
+number = 3435                 # Integer
 my_name = 'Mr. Big Words Man' # String
 pi = 3.1415926535897932       # Float
 am_i_smart = True             # Boolean
